@@ -1,0 +1,11 @@
+{
+  "name": "karmayogi-skillgraph-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"Sr no 101 Project/project\" run dev",
+    "build": "npm --prefix \"Sr no 101 Project/project\" run build",
+    "typecheck": "npm --prefix \"Sr no 101 Project/project\" run typecheck",
+    "preview": "npm --prefix \"Sr no 101 Project/project\" run preview",
+    "install:app": "npm --prefix \"Sr no 101 Project/project\" install"
+  }
+}
