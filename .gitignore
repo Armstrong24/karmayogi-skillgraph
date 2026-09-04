@@ -5,3 +5,4 @@ dist/
 .agents/
 *.local
 .DS_Store
+*.pptx
